@@ -3,12 +3,12 @@
 set YSJ_Version=1.0
 set Dir_Root=%~dp0Bin\
 set Dir_Plugins=%Dir_Root%.Plugins\
-set Dir_Work=%~d0\Files\DEV\
+set Dir_Work=
 set Name_Tools=tool
 set ActiveCodePage=65001
-set Editor=n3
+set Editor=notepad
 set Explorer=explorer
-set Terminal=ce
+set Terminal=cmd
 ::命令行参数 
 set Arg_Help=-h
 set Arg_Install=-i
